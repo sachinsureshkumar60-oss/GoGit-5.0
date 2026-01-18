@@ -1,0 +1,11 @@
+Name: Sachin Sureshkumar
+College: IIITA
+Branch: IT
+Graduation Year: 2029
+
+About Me:
+I am learning Git and GitHub through the GoGit project.
+I enjoy coding and improving my problem-solving skills.
+
+Favorite Movie:
+Inspection
